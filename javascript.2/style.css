@@ -1,0 +1,29 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  img {
+    max-height: 4cm;
+  }
+
+  ul{
+    display: flex;
+  }
+  
+  li {
+    list-style: none;
+    margin: 0cm 4cm;
+  }
+  
+.comentario 
+	{
+		background-color: #f2f2f2;
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+button{
+    background-color: antiquewhite;
+}
